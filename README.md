@@ -1,1 +1,1 @@
-# oosd-course-materials
+# Object-Oriented Systems Development - Course Materials
