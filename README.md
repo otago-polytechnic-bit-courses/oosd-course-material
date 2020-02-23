@@ -1,1 +1,1 @@
-# oosd-course-material
+# oosd-course-materials
